@@ -106,5 +106,4 @@ Lê Hồng Quân
 
 Cao Bảo Lâm
 
-Đỗ Trung Kiên ý ôm thêm việc mới.
-Nhóm cập nhật bảng Kanban sau mỗi buổi họp hoặc khi trạng thái công việc thay đổi.
+Đỗ Trung Kiên 
