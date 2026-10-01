@@ -1,6 +1,9 @@
 BÀI THỰC HÀNH: WBS – DoD – KANBAN
+
 Đề tài: Khảo sát thói quen sử dụng máy tính và điện thoại thông minh phục vụ học tập của sinh viên năm nhất.
+
 Nhiệm vụ 1. Xây dựng bảng chia việc nhỏ WBS
+
 Nhóm chia bài tập thành 3 giai đoạn chính, mỗi giai đoạn gồm các công việc nhỏ, có người phụ trách và kết quả đầu ra cụ thể.
 
 | Giai đoạn | Công việc cụ thể | nguoi phụ trách | Sản phẩm đầu ra | 
@@ -25,30 +28,51 @@ Nhiệm vụ 2. Thiết lập tiêu chuẩn hoàn thành DoD
 
 2.1. Checklist DoD cho file báo cáo Word
 # Checklist báo cáo Word
+
 -Có trang bìa ghi tên đề tài, tên thành viên, lớp và môn học.
+
 -Có mục lục và các đề mục được sắp xếp logic.
+
 -Có phần mở đầu: lý do, mục tiêu và đối tượng khảo sát.
+
 -Có phần phương pháp khảo sát và mô tả mẫu khảo sát.
+
 -Có phần kết quả, bảng số liệu, biểu đồ và nhận xét.
+
 -Có phần kết luận và đề xuất.
+
 -Có danh mục tài liệu tham khảo và trích dẫn nguồn đầy đủ.
+
 -Font Times New Roman, cỡ chữ 13 hoặc 14; tiêu đề phân cấp rõ ràng.
--Giãn dòng 1,5; căn đều hai bên; lề trái 3 cm, phải 2 cm, trên 2 cm, dưới 2 cm.
+
 -Đã kiểm tra lỗi chính tả, số liệu, định dạng và tính thống nhất.
+
 -Tên file rõ ràng, mở được và đúng yêu cầu nộp bài.
+
 -Đặt lại checklist
+
 2.2. Checklist DoD cho file Slide
+
 # Checklist Slide
+
 -Có từ 8–12 slide, gồm tiêu đề, nội dung chính và kết luận.
+
 -Nội dung trình bày theo bố cục mở đầu – phương pháp – kết quả – kết luận.
--Cỡ chữ nội dung tối thiểu 24 pt; tiêu đề khoảng 28–36 pt.
+
 -Mỗi slide khoảng 3–6 dòng ý chính, tránh đoạn văn dài.
+
 -Có biểu đồ minh họa số liệu khảo sát, ghi chú rõ ràng.
+
 -Màu sắc, font chữ và bố cục thống nhất toàn bài.
+
 -Hình ảnh rõ nét, chữ dễ đọc từ cuối lớp.
+
 -Đã kiểm tra lỗi chính tả, số liệu và nguồn trích dẫn.
+
 -Đã chạy thử slide, kiểm tra hiệu ứng và khả năng hiển thị.
+
 -File mở được trên máy tính dùng để thuyết trình.
+
 -Đặt lại checklist
 
 Nhóm sử dụng 3 cột To Do – In Progress – Done để theo dõi trạng thái công việc. Mỗi thành viên chỉ được nhận tối đa 1–2 công việc cùng lúc.
@@ -63,8 +87,24 @@ Nhóm sử dụng 3 cột To Do – In Progress – Done để theo dõi trạng
 | kiểm trả và tập thuyết tròm(cả nhóm) | | |
 
 Quy tắc vận hành Kanban
+
 To Do: Công việc đã được xác định nhưng chưa bắt đầu.
+
 In Progress: Thành viên đang thực hiện; mỗi người chỉ được có tối đa 2 thẻ tại cột này.
+
 Done: Chỉ chuyển thẻ sang Done khi sản phẩm đã hoàn thành và đáp ứng tiêu chuẩn DoD.
+
 Nếu một công việc bị vướng mắc, thành viên phải thông báo trong buổi họp nhóm để được hỗ trợ, không tự ý ôm thêm việc mới.
+
+Nhóm cập nhật bảng Kanban sau mỗi buổi họp hoặc khi trạng thái công việc thay đổi.
+
+Tên thành viên nhóm: 
+
+Vũ Minh Quân
+
+Lê Hồng Quân
+
+Cao Bảo Lâm
+
+Đỗ Trung Kiên ý ôm thêm việc mới.
 Nhóm cập nhật bảng Kanban sau mỗi buổi họp hoặc khi trạng thái công việc thay đổi.
